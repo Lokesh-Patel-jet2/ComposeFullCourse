@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
 //                Switch()
 //                Slider()
 //                LazyColumnsData()
-//                PreviewScreen()
+//                SimpleAlertDialog()
             }
         }
     }

@@ -62,14 +62,6 @@ fun Screen(showDialog : Boolean, onDismiss: () -> Unit){
 
 
 
-@Preview(showSystemUi = true)
-@Composable
-fun PreviewScreen(){
-    SimpleAlertDialog()
-}
-
-
-
 
 
 
