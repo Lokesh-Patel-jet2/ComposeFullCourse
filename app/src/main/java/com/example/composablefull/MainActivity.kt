@@ -30,6 +30,8 @@ class MainActivity : ComponentActivity() {
 //                ComposableRememberUpdateState()
 //                TextFieldValidation()
 //                MultipleCheckbox()
+//                Switch()
+                Slider()
             }
         }
     }
