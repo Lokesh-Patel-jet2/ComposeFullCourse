@@ -31,7 +31,8 @@ class MainActivity : ComponentActivity() {
 //                TextFieldValidation()
 //                MultipleCheckbox()
 //                Switch()
-                Slider()
+//                Slider()
+                LazyColumnsData()
             }
         }
     }
