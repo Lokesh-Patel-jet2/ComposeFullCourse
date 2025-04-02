@@ -14,6 +14,7 @@ import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.composablefull.projects.ComposableElement
 import com.example.composablefull.projects.NoteCounterApp
 import com.example.composablefull.ui.theme.ComposableFullTheme
 
@@ -36,7 +37,8 @@ class MainActivity : ComponentActivity() {
 //                LazyColumnsData()
 //                SimpleAlertDialog()
 //                SimpleScaffold()
-                SimpleDrawer()
+//                SimpleDrawer()
+                ComposableElement()
             }
         }
     }
