@@ -38,7 +38,9 @@ class MainActivity : ComponentActivity() {
 //                SimpleAlertDialog()
 //                SimpleScaffold()
 //                SimpleDrawer()
-                ComposableElement()
+//                ComposableElement()
+//                AppNavigation()
+                Counter()
             }
         }
     }
