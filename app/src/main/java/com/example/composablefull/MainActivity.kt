@@ -40,8 +40,9 @@ class MainActivity : ComponentActivity() {
 //                SimpleDrawer()
 //                ComposableElement()
 //                AppNavigation()
-                Counter()
-                UserNameText()
+//                Counter()
+//                UserNameText()
+                LiveCount()
             }
         }
     }
