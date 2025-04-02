@@ -41,6 +41,7 @@ class MainActivity : ComponentActivity() {
 //                ComposableElement()
 //                AppNavigation()
                 Counter()
+                UserNameText()
             }
         }
     }
