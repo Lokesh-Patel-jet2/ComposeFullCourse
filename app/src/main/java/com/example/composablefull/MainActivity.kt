@@ -17,6 +17,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.composablefull.projects.ComposableElement
 import com.example.composablefull.projects.NoteCounterApp
 import com.example.composablefull.ui.theme.ComposableFullTheme
+import com.example.composablefull.userList.UserListScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -42,7 +43,8 @@ class MainActivity : ComponentActivity() {
 //                AppNavigation()
 //                Counter()
 //                UserNameText()
-                LiveCount()
+//                LiveCount()
+                UserListScreen()
             }
         }
     }
